@@ -1,0 +1,68 @@
+.add_btn{
+  text-align: right;
+}
+#nv{
+  background-color:#0C1446;
+  
+
+}
+#nvadmin{
+  background-color:yellowgreen;
+  
+
+}
+.navbar-item{
+  color: #E7F2F8;
+  font-size:large;
+  font-family: 'Nova Flat', cursive;
+  
+  
+  }
+#my-nav {
+
+  justify-content:center;
+  font-family: 'Jura', sans-serif;
+}
+
+#my-nav a {
+  padding: 8px 10px;
+  margin-inline: 10px 10px;
+  float: left;
+  color: hsl(0, 0%, 96%);
+}
+#my-nav a:hover {
+  background-color: #41729F;
+  color: #fff;
+  border-radius: 7px;
+}
+
+#heart{
+  margin-top: -30px;
+  margin-left: 270px;
+  font-size:40px;
+  color: red;
+}
+
+#my-nav a.active {
+  background-color: #41729F;
+  color: #fff;
+  border-radius: 7px;
+}
+
+#detimg{
+  width :1280px;
+  height :455px
+}
+
+#productimg{
+
+  width:250px ;
+  height: 100px;
+}
+
+#test{
+  text-decoration: none;
+}
+
+
+
